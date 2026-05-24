@@ -10,9 +10,11 @@ Full Stack Developer • Flutter Developer • Laravel Enthusiast
 
 ---
 
-🌙 About Me
+## 🌙 About Me
 
-<img align="right" alt="coding" width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<table>
+<tr>
+<td width="60%">
 
 ✨ Passionate Full Stack Developer from Pakistan
 📱 Building scalable mobile & web applications
@@ -20,6 +22,16 @@ Full Stack Developer • Flutter Developer • Laravel Enthusiast
 🎨 Love creating clean UI/UX experiences
 💡 Interested in modern backend systems & APIs
 🌱 Currently exploring advanced system design
+
+</td>
+
+<td width="40%">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
