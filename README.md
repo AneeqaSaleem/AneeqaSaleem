@@ -16,11 +16,11 @@ Full Stack Developer • Flutter Developer • Laravel Enthusiast
 <tr>
 <td width="60%">
 
-✨ Passionate Full Stack Developer from Pakistan
-📱 Building scalable mobile & web applications
-🚀 Skilled in Flutter, Laravel, React & Node.js
-🎨 Love creating clean UI/UX experiences
-💡 Interested in modern backend systems & APIs
+✨ Passionate Full Stack Developer from Pakistan<br>
+📱 Building scalable mobile & web applications<br>
+🚀 Skilled in Flutter, Laravel, React & Node.js<br>
+🎨 Love creating clean UI/UX experiences<br>
+💡 Interested in modern backend systems & APIs<br>
 🌱 Currently exploring advanced system design
 
 </td>
