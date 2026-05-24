@@ -30,21 +30,6 @@
 <tr>
 <td width="60%">
 
-```yaml
-name: Azeem Shahid
-located_in: Pakistan
-current_role: Fullstack Developer
-company: Inverzo Tech
-experience: 2+ Years
-specialization:
-  - Laravel Development
-  - React & Vue Ecosystem
-  - Flutter Applications
-  - REST APIs
-  - Blockchain Integrations
-  - VPS & Linux Deployment
-```
-
 ### 🚀 Professional Summary
 
 ✨ Passionate Fullstack Developer focused on building scalable and high-performance applications.
@@ -349,6 +334,5 @@ timeline
 
 # ⚡ “Building Scalable Digital Solutions For The Modern World.” ⚡
 
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
 
 </div>
