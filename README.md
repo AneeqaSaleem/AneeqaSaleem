@@ -153,7 +153,7 @@ timeline
          : APIs & Web Systems
 
     2025 : Inverzo Tech
-         : Co-Founder
+         : CEO
          : Blockchain Infrastructure
 ```
 
