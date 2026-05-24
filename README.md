@@ -68,33 +68,13 @@ Full Stack Developer • Flutter Developer • Laravel Enthusiast
 </p>
 
 ---
-
 # ⚡ Developer Analytics
 
-<div align="center">
+<p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AneeqaSaleem&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=BB86FC&icon_color=BB86FC&text_color=FFFFFF"/>
+<img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AneeqaSaleem&theme=github_dark"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AneeqaSaleem&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=BB86FC&text_color=FFFFFF"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AneeqaSaleem&theme=github_dark"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AneeqaSaleem&theme=github_dark"/>
-
-</div>
-
+</p>
 
 
  🚀 Featured Projects
