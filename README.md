@@ -16,17 +16,17 @@ Fullstack Developer • Co-Founder @ Inverzo Tech • Fiverr Level 1 Seller
 <tr>
 <td width="60%">
 
-🚀 Fullstack Developer with 2+ years of experience <br><br>
+🚀 Fullstack Developer with 2+ years of experience <br>
 
-🌍 Delivered projects for international clients in Netherlands & Philippines <br><br>
+🌍 Delivered projects for international clients in Netherlands & Philippines <br>
 
-🏢 Co-Founder of <b>Inverzo Tech</b> — building scalable digital solutions <br><br>
+🏢 Co-Founder of <b>Inverzo Tech</b> — building scalable digital solutions <br>
 
-💻 Specialized in Laravel, Vue.js, React.js & Flutter ecosystems <br><br>
+💻 Specialized in Laravel, Vue.js, React.js & Flutter ecosystems <br>
 
-🔗 Experienced in blockchain integrations & crypto payment gateways <br><br>
+🔗 Experienced in blockchain integrations & crypto payment gateways <br>
 
-⚡ Passionate about backend systems, APIs & modern architectures <br><br>
+⚡ Passionate about backend systems, APIs & modern architectures <br>
 
 🛠 Skilled in VPS/Linux deployment, SSH & production server management
 
