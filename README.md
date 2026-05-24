@@ -1,38 +1,54 @@
-<h1 align="center">⚡ AZEEM SHAHID ⚡</h1>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=AZEEM%20SHAHID&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20|%20Co-Founder%20@%20Inverzo%20Tech&descAlignY=58&descAlign=50"/>
+
+</div>
 
 <h3 align="center">
-Fullstack Developer • Co-Founder @ Inverzo Tech • Fiverr Level 1 Seller
+⚡ Laravel • Vue.js • React.js • Flutter • Blockchain ⚡
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Fullstack+Developer+from+Pakistan;Laravel+%7C+Vue.js+%7C+React.js+%7C+Flutter;Building+Scalable+Web+%26+Mobile+Applications;Blockchain+Payment+Gateway+Developer;REST+API+%26+VPS+Management+Expert;Delivering+Solutions+for+International+Clients" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Fullstack+Developer+from+Pakistan;Building+Scalable+Web+%26+Mobile+Applications;Co-Founder+of+Inverzo+Tech;Blockchain+Payment+Gateway+Developer;REST+API+%26+VPS+Management+Expert;Delivering+Solutions+for+International+Clients" />
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Azeem-Shahid&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Azeem-Shahid?label=Followers&style=for-the-badge&color=blue"/>
+
+<img src="https://img.shields.io/github/stars/Azeem-Shahid?label=Stars&style=for-the-badge&color=yellow"/>
+
 </p>
 
 ---
 
-# 🌙 About Me
+# 🌌 About Me
 
 <table>
 <tr>
-<td width="60%">
+<td width="58%">
 
-🚀 Fullstack Developer with 2+ years of experience <br>
+### 🚀 Who Am I?
 
-🌍 Delivered projects for international clients in Netherlands & Philippines <br>
+✨ Fullstack Developer with 2+ years of experience <br><br>
 
-🏢 Co-Founder of <b>Inverzo Tech</b> — building scalable digital solutions <br>
+🌍 Worked with international clients from Netherlands & Philippines <br><br>
 
-💻 Specialized in Laravel, Vue.js, React.js & Flutter ecosystems <br>
+🏢 Co-Founder of <b>Inverzo Tech</b> delivering scalable digital solutions <br><br>
 
-🔗 Experienced in blockchain integrations & crypto payment gateways <br>
+💻 Specialized in Laravel, Vue.js, React.js & Flutter ecosystems <br><br>
 
-⚡ Passionate about backend systems, APIs & modern architectures <br>
+🔗 Experienced in blockchain payment systems & crypto integrations <br><br>
 
-🛠 Skilled in VPS/Linux deployment, SSH & production server management
+⚡ Passionate about backend architectures, APIs & scalable infrastructures <br><br>
+
+🛠 Skilled in VPS/Linux deployment, SSH, cPanel & production environments
 
 </td>
 
-<td width="40%">
+<td width="42%">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
 
@@ -62,44 +78,26 @@ Fullstack Developer • Co-Founder @ Inverzo Tech • Fiverr Level 1 Seller
 
 ---
 
-# ⚡ Tech Stack
+# ⚡ Tech Universe
 
-### 🎨 Frontend
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=vue,react,html,css,js,tailwind,bootstrap" />
-</p>
+<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,vue,react,flutter,dart,mysql,postgres,linux,git,github,postman,vscode,tailwind,bootstrap,html,css,js&perline=6" />
 
-### ⚙ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=laravel,php,nodejs" />
-</p>
-
-### 📱 Mobile Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
-</p>
-
-### 🗄 Database & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,linux,git,github,postman" />
-</p>
+</div>
 
 ---
 
-# 🏢 Professional Experience
+# 🏢 Professional Journey
 
 ## 🚀 Inverzo Tech | Co-Founder & Fullstack Developer
 
 📅 2025 - Present
 
-* Leading a development team delivering scalable full-stack applications
-* Architecting systems using Laravel, Vue.js, React.js & Flutter
-* Building blockchain payment infrastructure for crypto integrations
-* Managing international client projects from planning to deployment
+✨ Leading a modern development team delivering scalable products
+✨ Architecting Laravel, Vue.js, React.js & Flutter systems
+✨ Developing blockchain payment infrastructures
+✨ Managing international client solutions end-to-end
 
 ---
 
@@ -107,10 +105,10 @@ Fullstack Developer • Co-Founder @ Inverzo Tech • Fiverr Level 1 Seller
 
 📅 2024 - 2025
 
-* Developed full-stack web applications & REST APIs
-* Optimized backend systems & responsive front-end interfaces
-* Managed VPS/Linux production deployments
-* Worked in agile development environments
+⚡ Developed scalable web applications & REST APIs
+⚡ Managed VPS/Linux production deployments
+⚡ Optimized backend performance & responsive UIs
+⚡ Collaborated in agile development environments
 
 ---
 
@@ -118,24 +116,30 @@ Fullstack Developer • Co-Founder @ Inverzo Tech • Fiverr Level 1 Seller
 
 📅 2023 - 2024
 
-* Contributed to Job Portal development & CMS enhancements
-* Improved university internal systems & infrastructure
+🌟 Contributed to university Job Portal system
+🌟 Enhanced CMS & internal web infrastructure
 
 ---
 
 # 🚀 Featured Projects
 
+<div align="center">
+
 <table>
 <tr>
+
 <td width="50%">
 
 ## 🔗 Inverzo Gateway
 
-Blockchain-based crypto payment gateway supporting:
+💳 Blockchain-based crypto payment gateway
 
-* BEP-20
-* TRC-20
-* Web integrations
+### Features
+
+✨ BEP-20 Support
+✨ TRC-20 Support
+✨ Web App Integration
+✨ Secure Transactions
 
 ⚡ Currently in testing phase
 
@@ -145,28 +149,41 @@ Blockchain-based crypto payment gateway supporting:
 
 ## 📱 FindUpNow
 
-Multi-platform application ecosystem:
+🌍 Multi-platform application ecosystem
 
-* Android
-* iOS
-* Web
-* Backend APIs
+### Platforms
 
-🌍 Built for international clients
+✨ Android
+✨ iOS
+✨ Web
+✨ Backend APIs
+
+🚀 Built for international clients
 
 </td>
+
 </tr>
 </table>
+
+</div>
 
 ---
 
 # 🏆 Achievements
 
-✨ Fiverr Level 1 Seller
-🌍 Worked with international clients
-🚀 Co-Founder of Inverzo Tech
-💻 Full-stack web & mobile expert
+<div align="center">
+
+🥇 Fiverr Level 1 Seller <br><br>
+
+🌍 Worked with international clients worldwide <br><br>
+
+🚀 Co-Founder of Inverzo Tech <br><br>
+
+💻 Full-stack web & mobile specialist <br><br>
+
 🔗 Blockchain payment gateway developer
+
+</div>
 
 ---
 
@@ -178,6 +195,14 @@ Multi-platform application ecosystem:
 
 </p>
 
+<p align="center">
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api?username=Azeem-Shahid&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="42%" src="https://github-readme-streak-stats.herokuapp.com/?user=Azeem-Shahid&theme=tokyonight&hide_border=true"/>
+
+</p>
+
 ---
 
 # 📈 Contribution Graph
@@ -185,6 +210,19 @@ Multi-platform application ecosystem:
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Azeem-Shahid&theme=tokyo-night&hide_border=true"/>
 </p>
+
+---
+
+# 🧠 Currently Exploring
+
+<div align="center">
+
+⚡ Advanced Backend Architectures
+⚡ Blockchain Integrations
+⚡ AI Assisted Development
+⚡ Cloud Infrastructure & DevOps
+
+</div>
 
 ---
 
@@ -200,6 +238,12 @@ Multi-platform application ecosystem:
 🏅 HEC Pakistan NSCT — 71/100
 
 ---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
+
+</div>
 
 <p align="center">
 
