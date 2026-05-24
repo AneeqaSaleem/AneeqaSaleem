@@ -69,21 +69,32 @@ Full Stack Developer • Flutter Developer • Laravel Enthusiast
 
 ---
 
-# 📊 GitHub Stats
+# ⚡ Developer Analytics
 
-<p align="center">
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AneeqaSaleem&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AneeqaSaleem&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=BB86FC&icon_color=BB86FC&text_color=FFFFFF"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AneeqaSaleem&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AneeqaSaleem&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=BB86FC&text_color=FFFFFF"/>
 
-</p>
+</div>
 
-<p align="center">
+<br>
 
-<img src="https://streak-stats.demolab.com?user=AneeqaSaleem&theme=tokyonight&hide_border=true"/>
+<div align="center">
 
-</p>
+<img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AneeqaSaleem&theme=github_dark"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AneeqaSaleem&theme=github_dark"/>
+
+</div>
+
 
 
  🚀 Featured Projects
