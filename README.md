@@ -50,9 +50,7 @@
 
 <div align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:20px;"/>
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=Azeem-Shahid&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" width="100%"/>
-</div>
+<br>
 
 </td>
 </tr>
@@ -331,8 +329,5 @@ timeline
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=140&section=footer&animation=fadeIn" width="100%"/>
-
-# ⚡ “Building Scalable Digital Solutions For The Modern World.” ⚡
-
 
 </div>
